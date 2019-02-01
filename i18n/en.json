@@ -664,7 +664,9 @@
                "SUMM"                  : "Summ",
                "CHAIN_FEE"             : "Miner fee:",
                "SPECIFY_WALLET_NUMBER" : "Select the wallet number:",
-               "CREATE_TRANSACTION"    : "Create a transaction for the withdrawal"
+               "CREATE_TRANSACTION"    : "Create a transaction for the withdrawal",
+               "IN"                    : "in"
+
             },
 
             "UI_TX_CARD" : {
