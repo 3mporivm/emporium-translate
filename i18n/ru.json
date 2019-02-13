@@ -665,7 +665,8 @@
                "SUMM"                  : "Сумма",
                "CHAIN_FEE"             : "Комиссия сети",
                "SPECIFY_WALLET_NUMBER" : "Укажите номер кошелька:",
-               "CREATE_TRANSACTION"    : "Создать транзакцию на вывод"
+               "CREATE_TRANSACTION"    : "Создать транзакцию на вывод",
+               "IN"                    : "в"
             },
 
             "UI_TX_CARD" : {
