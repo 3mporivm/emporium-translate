@@ -687,6 +687,9 @@
          },
          "PAGE_PAYMENT_LIST" : {
             "PAGE_TITLE"                  : "Wallet",
+            "BUY"                         : "Buy",
+            "TRADE"                       : "Trade",
+            "CONVERSION"                  : "Conversion",
             "CRYPTO"                      : "Cryptocurrencies",
             "WALLET"                      : "wallet",
             "CRYPTO_SEARCH_PLACEHOLDER"   : "Search cryptocurrencies",
