@@ -688,6 +688,9 @@
          },
          "PAGE_PAYMENT_LIST" : {
             "PAGE_TITLE"                  : "Кошельки",
+            "BUY"                         : "Купить",
+            "TRADE"                       : "Торговать",
+            "CONVERSION"                  : "Конвертация",
             "CRYPTO"                      : "Криптовалюты",
             "WALLET"                      : "кошелька",
             "CRYPTO_SEARCH_PLACEHOLDER"   : "Поиск криптовалюты",
